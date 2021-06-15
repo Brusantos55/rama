@@ -3,3 +3,4 @@ aqui va el codigo fuente para splucionar la incidencia IC2394
 =======
 aqui va el codigo fuente para solucionar la incidencia IC2879
 >>>>>>> parche2
+hemos encontrado un nuevo bug para arreglar.
